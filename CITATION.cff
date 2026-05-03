@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or discuss the Signal-Time-Authority (STA) Series, please cite the collection record or the relevant individual paper."
+title: "Signal-Time-Authority (STA) Series: PublicRelease v1.0 Collection"
+authors:
+  - family-names: "Naing"
+    given-names: "Htet Ko Ko"
+    orcid: "https://orcid.org/0009-0000-6140-0495"
+doi: "10.5281/zenodo.19985331"
+url: "https://doi.org/10.5281/zenodo.19985331"
+date-released: "2026-05-02"
+version: "PublicRelease v1.0"
+license: "CC-BY-4.0"
+keywords:
+  - AI safety
+  - runtime oversight
+  - pre-commitment controllability
+  - Signal-Time-Authority
+  - STA
+  - authority governor
+  - safe-stop authority
+  - AI governance
+  - assurance case
