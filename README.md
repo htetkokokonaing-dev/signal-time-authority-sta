@@ -47,9 +47,6 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.19984706
 **Governed Hazard Predicates and Assurance Cases for STA Runtime Oversight**  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19984993
 
-## Short Myanmar Summary
-
-STA Framework က runtime AI oversight ကို အန္တရာယ်ဖြစ်ပြီးနောက်မှ detect လုပ်တာမဟုတ်ဘဲ external consequence မဖြစ်ခင် signal, time, authority, policy ကျန်သေးလားဆိုတဲ့ pre-commitment controllability မေးခွန်းအဖြစ်ကြည့်တဲ့ AI safety framework ဖြစ်ပါတယ်။
 
 ## Non-Claim
 
