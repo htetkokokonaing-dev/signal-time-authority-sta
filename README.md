@@ -26,16 +26,18 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.19985331
 
 **Signal-Time-Authority Runtime Oversight: A Pre-Commitment Controllability Framework**  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19980763
+Corrected PublicRelease v1.0.1: Stage 3 Boundary Sensitivity artifacts included.
 
 ### Paper 2 — Synthetic Toy Simulation
 
 **C++17 Staged Toy Simulation for STA Pre-Commitment Controllability**  
-Zenodo DOI: https://doi.org/10.5281/zenodo.19984104
+Zenodo DOI: https://doi.org/10.5281/zenodo.20072965
 
 ### Paper 3 — Runtime Deployment Architecture
 
 **Graduated STA Control: Authority Governors and Runtime Deployment Architecture**  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19984352
+
 
 ### Paper 4 — Physical AI and Safe-Stop Authority
 
