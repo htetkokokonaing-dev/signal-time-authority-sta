@@ -49,6 +49,33 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.19984706
 **Governed Hazard Predicates and Assurance Cases for STA Runtime Oversight**  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19984993
 
+## Separate STA-CCA Extension Materials
+
+These materials are separate from the frozen STA Paper 1–5 PublicRelease core series. They are **not Paper 6**.
+
+### STA Conditional Commitment Architecture Future Extension Note
+
+**STA Conditional Commitment Architecture for Output-Mediated and Multi-Agent AI Systems**  
+Zenodo DOI: https://doi.org/10.5281/zenodo.20063055
+
+This future extension note explores output-mediated and multi-agent conditional-commitment ideas, including output release boundaries, Claim Packets, semantic deabstraction, state contamination, monitor-aware adaptation, and authority-bounded gates.
+
+### STA-CCA C++17 Toy Simulation PublicRelease v1.0
+
+**STA-CCA C++17 Toy Simulation PublicRelease v1.0**  
+Zenodo DOI: https://doi.org/10.5281/zenodo.20077029
+
+GitHub Release: https://github.com/htetkokokonaing-dev/signal-time-authority-sta/releases/tag/sta-cca-simulation-v1.0
+
+Accepted total: **106,000,000 synthetic episode-runs**
+
+The simulation companion includes Stage 1 through Stage 8 C++17 toy simulations covering falsification controls, output buffer/release gating, tool-call commitment gating, multi-agent cascade containment, semantic deabstraction ablation, state contamination, monitor-aware adaptation, and replication.
+
+### Boundary
+
+These extension materials provide **synthetic toy internal-consistency evidence only**. They do **not** claim real-world LLM validation, multi-agent safety validation, deployment evidence, adversarial robustness, or proof of AI safety.
+
+The frozen STA Paper 1–5 core series remains unchanged.
 
 ## Non-Claim
 
