@@ -77,6 +77,16 @@ These extension materials provide **synthetic toy internal-consistency evidence 
 
 The frozen STA Paper 1–5 core series remains unchanged.
 
+## Related Work Positioning
+
+STA does not claim to invent runtime assurance, action mediation, ethical governors, control barrier functions, behavioral contracts, STPA monitoring, coordination transparency, OT security, or embodied-AI governance from scratch.
+
+STA’s contribution is a pre-commitment controllability framing: runtime oversight becomes control-relevant only when usable Signal, remaining Time, effective Authority, and valid Policy remain jointly available before a declared commitment event.
+
+See:
+
+[STA Related Work Positioning Addendum v1.0.1](./STA_Related_Work_Positioning_Addendum_v1_0_1.md)
+
 ## Non-Claim
 
 STA is not presented as a proof of AI safety.
