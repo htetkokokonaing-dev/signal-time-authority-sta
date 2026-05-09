@@ -85,7 +85,7 @@ STA’s contribution is a pre-commitment controllability framing: runtime oversi
 
 See:
 
-[STA Related Work Positioning Addendum v1.0.1](./STA_Related_Work_Positioning_Addendum_v1_0_1.md)
+[STA Related Work Positioning Addendum v1.0.2](./STA_Related_Work_Positioning_Addendum_v1_0_2.md)
 
 ## Non-Claim
 
