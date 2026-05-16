@@ -19,7 +19,18 @@ If these conditions are no longer available, runtime monitoring may still suppor
 
 **Signal-Time-Authority (STA) Series: PublicRelease v1.0 Collection**  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19985331
+## Interactive Demo
 
+A small educational Hugging Face Space demo is available here:
+
+https://huggingface.co/spaces/htetkokonaing/sta-tool-execution-gate-demo
+
+This demo illustrates toy STA gate logic for AI tool-execution cases. It does not execute real tools, call external APIs, send emails, delete files, move money, access credentials, or run untrusted code. It is a static educational simulation and does not prove AI safety, validate real-world deployment, or provide production assurance.
+
+## Public Discussion and Explainer
+
+- EA Forum discussion: https://forum.effectivealtruism.org/posts/D52g5tyxwFrzgo6zc/ai-oversight-needs-authority-not-just-monitoring
+- Medium explainer: https://medium.com/@nanglieng17/a-practical-lens-for-understanding-when-ai-monitoring-can-still-intervene-before-an-action-becomes-8f19da2de98b
 ## STA Series Papers
 
 ### Paper 1 — Theory Foundation
